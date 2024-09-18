@@ -77,13 +77,6 @@ npm run build
 npm run start
 ```
 
-### 5. Environment Variables:
-Create a `.env.local` file to define any necessary environment variables:
-```
-NODE_ENV=production
-SSL_API_URL=http://localhost:5002/api/check-ssl
-```
-
 ---
 
 ## Usage
