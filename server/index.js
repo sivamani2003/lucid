@@ -80,5 +80,4 @@ const fetchSSLCertificate = (domain) => {
   });
 };
 
-// Start the server
 app.listen(5002, () => console.log('SSL Checker backend running on port 5002'));
